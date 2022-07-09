@@ -1,2 +1,2 @@
-# labs-java
+## Labs
  practice and exercise questions
