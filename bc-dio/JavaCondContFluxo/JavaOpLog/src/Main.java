@@ -3,6 +3,9 @@
 
  Classe de exemplo para o exercício da Aula 2 de Operadores lógicos e relacionais, Controle de fluxo e Blocos.
 
+ Proposta: Criar um simples projeto no IntelliJ e condificar os exemplos dos slides anteriores para compreender as operações
+ lógicas. Utilize operandos e expressões.
+
 */
 
 public class Main {
