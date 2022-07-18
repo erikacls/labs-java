@@ -1,0 +1,37 @@
+class/method
+
+[x] Iniciar
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
+[x] Generics
+[x] Diamond Operator
+https://www.baeldung.com/java-diamond-operator
+[x] toString()
+[x] indexOf()
+[x] add()
+[x] set()
+[x] contains()
+[x] toString()
+[x] get()
+[x] Collections.min()
+[x] Collections.max()
+[x] iterator()
+[x] iterator().hasNext()
+[x] iterator().next()
+[x] size()
+[x] remove()
+[x] iterator().remove()
+[x] clear()
+[x] isEmpty()
+
+Order
+
+[x] class Gato - nome, idade, cor
+[x] new ArrayList()
+[x] Collections.shuffle()
+[x] Collections.sort()
+[x] sort()
+[x] Comparable
+https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/
+[x] new ComparatorIdade()
+[x] new ComparatorCor()
+[x] new ComparatorNomeGeneroTempoEpisodio()
