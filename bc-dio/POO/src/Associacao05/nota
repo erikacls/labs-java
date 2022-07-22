@@ -1,0 +1,13 @@
+
+Exercício: Apenas para praticar, codifique os exemplos dos slides anteriores sobre as associações.
+
+A intenção do exercício é mostrar como faz uma Associação, no caso estrutural ou comportamental.
+
+Estrutural
+ - Agregação
+ - COmposição
+
+ Comportamental
+ - Dependencia
+
+ A composição conforme os exemplos do slide era entre Pessoa e Endereco.
